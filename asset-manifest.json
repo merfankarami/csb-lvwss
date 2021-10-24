@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://merfankarami.github.io/csb-lvwss/static/css/main.c92067a2.chunk.css",
+    "main.js": "https://merfankarami.github.io/csb-lvwss/static/js/main.84d4530c.chunk.js",
+    "main.js.map": "https://merfankarami.github.io/csb-lvwss/static/js/main.84d4530c.chunk.js.map",
+    "runtime-main.js": "https://merfankarami.github.io/csb-lvwss/static/js/runtime-main.b3578b3e.js",
+    "runtime-main.js.map": "https://merfankarami.github.io/csb-lvwss/static/js/runtime-main.b3578b3e.js.map",
+    "static/js/2.96003981.chunk.js": "https://merfankarami.github.io/csb-lvwss/static/js/2.96003981.chunk.js",
+    "static/js/2.96003981.chunk.js.map": "https://merfankarami.github.io/csb-lvwss/static/js/2.96003981.chunk.js.map",
+    "index.html": "https://merfankarami.github.io/csb-lvwss/index.html",
+    "precache-manifest.b6534bb8f4e00ce80401d332bcf1b366.js": "https://merfankarami.github.io/csb-lvwss/precache-manifest.b6534bb8f4e00ce80401d332bcf1b366.js",
+    "service-worker.js": "https://merfankarami.github.io/csb-lvwss/service-worker.js",
+    "static/css/main.c92067a2.chunk.css.map": "https://merfankarami.github.io/csb-lvwss/static/css/main.c92067a2.chunk.css.map",
+    "static/js/2.96003981.chunk.js.LICENSE.txt": "https://merfankarami.github.io/csb-lvwss/static/js/2.96003981.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3578b3e.js",
+    "static/js/2.96003981.chunk.js",
+    "static/css/main.c92067a2.chunk.css",
+    "static/js/main.84d4530c.chunk.js"
+  ]
+}
